@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(116, 116, 116);
+    color: rgb(0, 0, 0);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+h1{
+    text-align: center;    
+    padding-bottom: 2rem;    
+}
+h2{
+    text-align: center;
+}
+p{}
